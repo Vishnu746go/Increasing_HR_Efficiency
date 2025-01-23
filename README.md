@@ -11,7 +11,10 @@ The dataset used in this project contains various features about employees, incl
 ### **Key Features**
 - **Data Preprocessing:** Handles missing values, scales numerical data, and encodes categorical variables.
 - **AutoML:** Uses **TPOT** to automate model selection and optimization.
-- **Prediction:** The model predicts employee attrition based on the input features.
+- **Prediction:** The model predicts employee attrition based on the input dataset.
+- **Simulation based Prediction:** Predicts attrition risk using ML models, with a simulation of HR adjustments (e.g., salary change) to see its impact
+- **Actionable Insights for HR**: Explainable AI (XAI) using SHAP values help in transparent and easier decision-making for HR Professionals.
+
 
 ---
 
