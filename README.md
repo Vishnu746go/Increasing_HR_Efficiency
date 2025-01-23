@@ -93,17 +93,28 @@ user_input = {
 }
 The predicted attrition status is: No
 ```
-## Steps to reproduce the project:
+
+---
+
+## 🪜 Steps to reproduce the project:
 - 1. Run the AttritionPrediction.ipynb file
 - 2. Run the excelgenerating.py file to create a test employee dataset
 - 3. Run the app.py file
- 
- 
-## Sample Output Screens:
+
+---
+
+--- 
+
+## Output Screens:
 ![image](https://github.com/user-attachments/assets/680d028f-4599-4c48-be62-0657ab70abc0)
+
+
 ![image](https://github.com/user-attachments/assets/f3ddef2e-f7d2-462e-b0e4-2ae2efead3c8)
+
+
 ![image](https://github.com/user-attachments/assets/1046686a-e1d8-4498-af12-a20852670bba)
 
+---
 
 ## 📫 Contact
 For inquiries or collaborations, feel free to connect:
