@@ -1,4 +1,4 @@
-# Increasing_HR_Efficiency
+# Enhancing HR Efficiency
 
 # Employee Attrition Prediction using Machine Learning
 
